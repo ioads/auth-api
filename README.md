@@ -1,4 +1,4 @@
-# auth-spa
+# auth-api
 
 ## Copy Environment and Set Database info
 
